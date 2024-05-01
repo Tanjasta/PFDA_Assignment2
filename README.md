@@ -5,8 +5,6 @@ PFDA_Assignment2
 
 This repository contains a Jupyter Notebook demonstrating data analysis and visualisation techniques in Python. It is aimed at providing practical examples and insights into data handling and visualisation.
 
-**Notebook**
-
 
 
 #### Prerequisites
@@ -39,5 +37,4 @@ To use these notebooks:
 
 * Launch Jupyter Notebook or Jupyter Lab and open the desired notebook.
 
-#### Structure
 
